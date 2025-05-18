@@ -13,7 +13,7 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Installation and Configuration      | <a href="https://google.com">Detection Lab</a>|
+| Splunk Installation and Configuration      | <a href="https://github.com/Oluwaseun-Projects/Splunk-Installation-Configuration">Splunk Installation & Configurationb</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
@@ -51,4 +51,4 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 
 
 ## Projects
-
+a href="https://github.com/Oluwaseun-Projects/Splunk-Installation-Configuration">Splunk Installation & Configurationb</a>
