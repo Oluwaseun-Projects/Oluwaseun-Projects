@@ -51,4 +51,4 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 
 
 ## Projects
-a href="https://github.com/Oluwaseun-Projects/Splunk-Installation-Configuration">Splunk Installation & Configurationb</a>
+<a href="https://github.com/Oluwaseun-Projects/Splunk-Installation-Configuration"> Splunk Installation & Configuration </a>
