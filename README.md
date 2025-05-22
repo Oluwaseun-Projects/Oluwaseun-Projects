@@ -1,9 +1,9 @@
 # Hello, I'm Oluwaseun
 <a href="https://www.linkedin.com/in/oluwaseun-adegboye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional with a strong foundation in SOC operations, network security, and Linux infrastructure. I specialize in threat detection, incident response, and automation using tools like Splunk, EDR platforms, and scripting (Python/Bash). Passionate about securing systems across on-prem, cloud, and hybrid environments.
+IT professional with a strong foundation in SOC operations, network security, IT Support/Helpdesk and Linux infrastructure. I specialize in threat detection, incident response, and automation using tools like Splunk, EDR platforms, and scripting (Python/Bash). Passionate about securing systems across on-prem, cloud, and hybrid environments.
 
-🔧 Focus Areas: SOC Analyst | Network Security | SIEM | EDR | Linux | Cloud Security
+🔧 Focus Areas: SOC Analyst | Network Security | IT Support | Helpdesk | SIEM | EDR | Linux | Cloud Security | Customer Support
 
 ## Objective
 
