@@ -16,7 +16,7 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 |-----------------------------------------------|----------------------------|
 | Splunk Installation and Configuration                                                 | <a href="https://github.com/Oluwaseun-Projects/Splunk-Installation-Configuration">Splunk Installation & Configuration</a>|
 | Windows Server 2025 Installation & Domain Controller Configuration | <a href="https://github.com/Oluwaseun-Projects/Windows-Server-Domain-Controller-Configuration-"> Windows Server 2025 Installation & Domain Controller Configuration</a> |
-
+| Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation | <a href ="https://github.com/Oluwaseun-Projects/Network-Traffic-Analysis-with-Wireshark---Investigating-a-Compromised-Workstation"> Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation </a> |
 
 
 
