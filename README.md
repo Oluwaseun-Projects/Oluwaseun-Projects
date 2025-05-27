@@ -19,7 +19,9 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 
 |Network Traffic Analysis with Wireshark - 
 Investigating a Compromised Workstation |<a href="https://github.com/Oluwaseun-Projects/Network-Traffic-Analysis-with-Wireshark-
-                                             --Investigating-a-Compromised-Workstation">Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation </a>|
+                                             --Investigating-a-Compromised-Workstation">Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation </a>
+| Configuring DNS and DHCP on Windows Server for Domain-Joined Clients  |<a href = "https://github.com/Oluwaseun-Projects/Configuring-DNS-and-DHCP-on-Windows-Server-for-Domain-Joined-Clients"> Configuring DNS and DHCP on Windows Server for Domain-Joined Clients </a>
+                                            
 
 ## Tools
 
@@ -62,4 +64,5 @@ Investigating a Compromised Workstation |<a href="https://github.com/Oluwaseun-P
 
 <a href="https://github.com/Oluwaseun-Projects/Network-Traffic-Analysis-with-Wireshark---Investigating-a-Compromised-Workstation" >Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation </a>
 
+<a href = "https://github.com/Oluwaseun-Projects/Configuring-DNS-and-DHCP-on-Windows-Server-for-Domain-Joined-Clients"> Configuring DNS and DHCP on Windows Server for Domain-Joined Clients </a>
 
