@@ -20,6 +20,7 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 | Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation | <a href ="https://github.com/Oluwaseun-Projects/Network-Traffic-Analysis-with-Wireshark---Investigating-a-Compromised-Workstation"> Network Traffic Analysis with Wireshark - Investigating a Compromised Workstation </a> |
 | Configuring DNS and DHCP on Windows Server for Domain-Joined Clients  | <a href = "https://github.com/Oluwaseun-Projects/Configuring-DNS-and-DHCP-on-Windows-Server-for-Domain-Joined-Clients"> Configuring DNS and DHCP on Windows Server for Domain-Joined Clients </a> |    
 |Active Directory Departmental Structure and Group Policy | <a href = "https://github.com/Oluwaseun-Projects/Active-Directory-Departmental-Structure-and-Group-Policy-"/> Active Directory Departmental Structure and Group Policy </a>
+|Phishing Email Analysis Using Multi-Tool Approach| <a href = "https://github.com/Oluwaseun-Projects/Phishing-Email-Analysis-Using-Multi-Tool-Approach"> Phishing Email Analysis Using Multi-Tool Approach <a/>
 
 
 
@@ -69,3 +70,5 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 <a href = "https://github.com/Oluwaseun-Projects/Configuring-DNS-and-DHCP-on-Windows-Server-for-Domain-Joined-Clients"> Configuring DNS and DHCP on Windows Server for Domain-Joined Clients </a>
 
 <a href = "https://github.com/Oluwaseun-Projects/Active-Directory-Departmental-Structure-and-Group-Policy-"/> Active Directory Departmental Structure and Group Policy </a>
+
+<a href = "https://github.com/Oluwaseun-Projects/Phishing-Email-Analysis-Using-Multi-Tool-Approach"> Phishing Email Analysis Using Multi-Tool Approach <a/>
