@@ -33,6 +33,18 @@ To leverage my expertise in cybersecurity and network security to build, secure,
     <img src="https://img.shields.io/badge/-Nmap-4B275F?style=for-the-badge&logo=Nmap&logoColor=white" />    
 </div>
 
+### Security 
+<div>
+<img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAABVVVUWFhYzMzNmZmZcXFxfX1+YmJjBwcHEyMjT09Pg4OAlJSVsbGx5eXlvb29/f3+bm5uTk5Pg4OC1tbWkpKStra2urq7U1NRwcHCzs7Onp6e+vr5gYGCjo6P0kdfhAAAAAXRSTlMAQObYZgAAAG9JREFUGNNjYMAKZAwYGBgQ/P//T8TMzA8mJiYQgSkZGJggQ0FgYGBuZHxGIBBRlZQkpAAkZmBhZWZiEA7Axsb2DqD2DkYmJwUgYECImB1QCDAA0TiFLDsHIxYAAAAASUVORK5CYII=" />
+
+    
+<img src="https://img.shields.io/badge/-PhishTool-5E60CE?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAAD///+srKzX19fn5+e8vLzj4+Pm5ubg4ODu7u7v7+/v7+/n5+fv7++9vb3s7Ozv7+/x8fHz8/Pz8/P19fXV1dX2yyZyAAAAAXRSTlMAQObYZgAAAEpJREFUGNOFjUsSgCAQRN+l0/3/f0gyQ8WsCEtpMvQFcMpNITbEdI1ydQ9K6lhpoQXDWQ2HsAeQR8Dc8z7IPYF7wJFS5VQHyDCyXQmKAAAAAElFTkSuQmCC" />
+
+   
+<img src="https://img.shields.io/badge/-CyberChef-000000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAW1JREFUKBVj/P//PwMlgImBQjDw3z8DJkZGRoahoeHKysoqKSkpyU5ODihsbGyMLy+vpX//f/z9+6f/f//2cZGLi7tSUkJiD2Cxv7///5dQUJBiA+QMDAwMRUVFYVRUlKwvr7+q1NQUHCqmpmawtbW1U5ycHCKcOnXqU7AysjJS/fv3f3Ly8lLT0tIa+g8mZGRYs7Ozv0N/f/5/j4+OW0tISbFy9e9szMTD6Qm5vblcDAwDCpqal3g4GBgF3BwUH19fUBjY2PC1tbW1sDAwX8DQ0NDgU1NTb/3+/fvPkpIS7zIyMmL7+/v5NTEw0cHBwzWhomP7//++BgYGxt7e3kZiYmMC2trZ/f/++fHx8DMjJS8vz8vK6enl7U19d3DQwMIH7+/n6OjY01kZGROXt7e/sLCQhISEmRwcJB1dXWJjIxMoaGhjQNDQ7e3t9d+8eTMzMxjAwMDcMzPzA39//3n7+uZ/f38LqampMLCwsPjx4+M/P/+zsbGwZGRklNTVVXFxcbBQd7e3ikpKZHZ2toGBgQHHx8cA4oCKOnJzMkpJSPX369NSiR+KZ6AaQLrMfZ/MIAAAAASUVORK5CYII=" />
+    
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
