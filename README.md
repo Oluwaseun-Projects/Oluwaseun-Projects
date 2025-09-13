@@ -4,7 +4,7 @@
 
 IT professional with a strong foundation in SOC operations, network admimistration and security, IT Support/Helpdesk and Linux infrastructure. I specialize in threat detection, incident response, and automation using tools like Splunk, EDR platforms, and scripting (Python/Bash). Passionate about securing systems across on-prem, cloud, and hybrid environments.
 
-🔧 Focus Areas: SOC Analyst | Network Admin & Security | IT Support | Helpdesk | SIEM | EDR | Linux | Cloud Security | Customer Support
+🔧 Focus Areas: SOC Analyst | Network Admin & Security | IT Support | Helpdesk | SIEM | EDR | Linux | Cloud Admin | Customer Support
 
 ## Objective
 
@@ -42,7 +42,17 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 
    
 <img src="https://img.shields.io/badge/-CyberChef-000000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAW1JREFUKBVj/P//PwMlgImBQjDw3z8DJkZGRoahoeHKysoqKSkpyU5ODihsbGyMLy+vpX//f/z9+6f/f//2cZGLi7tSUkJiD2Cxv7///5dQUJBiA+QMDAwMRUVFYVRUlKwvr7+q1NQUHCqmpmawtbW1U5ycHCKcOnXqU7AysjJS/fv3f3Ly8lLT0tIa+g8mZGRYs7Ozv0N/f/5/j4+OW0tISbFy9e9szMTD6Qm5vblcDAwDCpqal3g4GBgF3BwUH19fUBjY2PC1tbW1sDAwX8DQ0NDgU1NTb/3+/fvPkpIS7zIyMmL7+/v5NTEw0cHBwzWhomP7//++BgYGxt7e3kZiYmMC2trZ/f/++fHx8DMjJS8vz8vK6enl7U19d3DQwMIH7+/n6OjY01kZGROXt7e/sLCQhISEmRwcJB1dXWJjIxMoaGhjQNDQ7e3t9d+8eTMzMxjAwMDcMzPzA39//3n7+uZ/f38LqampMLCwsPjx4+M/P/+zsbGwZGRklNTVVXFxcbBQd7e3ikpKZHZ2toGBgQHHx8cA4oCKOnJzMkpJSPX369NSiR+KZ6AaQLrMfZ/MIAAAAASUVORK5CYII=" />
-    
+
+<img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+chjcoAAAAJ3RSTlMAAQMEBQYICQoMDQ4QEhMUFRgZGhscHR4fICElJicoLzM0N1oAAABxSURBVBjTY2AAAkYmJhYmVgZGRgZmAEmRgYGBiAFlBRmCkQVVXVQMbGxqaFQFJWVlZU0cDIyOjEo6sApKANLKyqqurqJQ1JhZWdvYGBjZ2DiAhIRBxOJBExBQUOERxIBjAQA1FQtBRRFREUAAAAASUVORK5CYII=" />
+
+<img src="https://img.shields.io/badge/-Suricata-E1523D?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////8EQ0FJAAAAKXRSTlMAAQIDBAUGBwgJCgsMDQ8QEhMUFRYXGBkaHB0eHyEiIyQmJygvMzk8PW3PeD0AAABgSURBVBjTY2AAAkYmJhYmVgZGFiYgAlYmZhYmVmYWBgNQjADSYmTAAKSiYAA9UwsLAwMjKyCrBIEJSSkpKSoIrgIQCQMQEpJSUlJRUEEkMgoqKqqqqpKgBsHwC6CwPDwMDAwMAAA2MwZNgY9PmgAAAAASUVORK5CYII=" />
+
+
+<img src="https://img.shields.io/badge/-pfSense-356DAC?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////+nMDM3AAAAI3RSTlMAAQIDBAYHCAkKCwwNDg8QERITFBUWFxgZGhscHR4fISIlJigrLU6h9mcAAABUSURBVBjTY2AAAkYmJhYmVgZmRhYQAlYGRjYwAqGBiYkEGMDAzMLIysrAIsisjIyMjAw2MECsmJiYmJgUECkiqqqqqpKQEpFYhISEhIQZhWFiAFm8AIKmBgYGBgYAAADo7B5ZwRK7owAAAABJRU5ErkJggg==" />
+
+<img src="https://img.shields.io/badge/-Cisco%20ASA-1BA0D7?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+zFnqVAAAAKXRSTlMAAQIDBAUGBwgJCgsMDQ4QERITFBUWFxgaGxwdHh8hIiMlJicoKSorLM2yMSIAAABfSURBVBjTY2AAAkYmJhYmVgZGZgYGAAmYGRjY2BgYWZgAALiBgYmJhYmRjYCEgiYmJiYmJqZQFqQHJqQkJCQmFhCqgYGBgYlQ9DAKQwkkJKCkpKKSoFkkJiYmBgYGBgQAAEkUFQmAmx82AAAAAElFTkSuQmCC" />
+
+
 </div>
 
 ### Endpoint
@@ -68,6 +78,7 @@ To leverage my expertise in cybersecurity and network security to build, secure,
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20SAA-4D4D4D?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20CCP-4D4D4D?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20CCNA-4D4D4D?style=for-the-badge&logo=Cisco&logoColor=white">
 
 
 ## Projects
